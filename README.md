@@ -2,6 +2,7 @@
 
 
 **BACKGROUND**
+
 Personal care is part of everyone’s daily life. From the toothpaste one uses, to the soaps and creams we apply to clean, moisturize, and protect our skin. There are a variety of products in the market that promise different outcomes.
 The goal of this project is to identify the most common ingredients flagged by the dataset, and determine which ingredients could potentially be harmful, and the effects they have.
 
