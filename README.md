@@ -7,10 +7,12 @@ Personal care is part of everyone’s daily life. From the toothpaste one uses, 
 The goal of this project is to identify the most common ingredients flagged by the dataset, and determine which ingredients could potentially be harmful, and the effects they have.
 
 **MOTIVATION**
+
 I decided on this topic because our skin is the largest organ in the body and although it serves as a barrier against external forces, it can be compromised by things we topically apply and lead to damage of other organs based on what it absorbs.
 
 
 **DATA DESCRIPTION**
+
 The FDA has conducted limited studies in the field of cosmetics in recent years, navigating the European Commission (European cosmetics regulation body) website for data has not been fruitful and other worthwhile studies are either not in English, or quite expensive to obtain. As such, most of the insights will be based on the report commissioned by the California Department of Health.
 
 The base dataset used is from the State of California’s Department of Public Health (CDPH) based on a report conducted by the California Safe Cosmetics Program (CSCP) provides a list of popular cosmetics products and the ingredients commonly found in them that could potentially be harmful.
