@@ -29,8 +29,8 @@ The data is from the California Safe Cosmetics Program (CSCP) in the California 
 
 **DATA QUESTIONS**
 
-What are the top 10 companies with the most products?
-What are the top 5 chemicals present?
-What percentage of the chemicals were removed and what are the top 5 chemicals removed?
-    In what products are these ingredients commonly found, and what are its uses?
-    How harmful are these ingredients?
+-What are the top 10 companies with the most products?
+-What are the top 5 chemicals present?
+-What percentage of the chemicals were removed and what are the top 5 chemicals removed?
+    -In what products are these ingredients commonly found, and what are its uses?
+    -How harmful are these ingredients?
