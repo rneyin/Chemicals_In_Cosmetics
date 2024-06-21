@@ -25,3 +25,12 @@ The data is from the California Safe Cosmetics Program (CSCP) in the California 
 **Data Description**: https://catalog.data.gov/dataset/chemicals-in-cosmetics-2a971/resource/e6aa1bac-2917-42a2-9559-cdc8ac50ea3a
 
 **Data Collection Tool**: https://og-production-open-data-chelseama-892364687672.s3.amazonaws.com/resources/28c5c460-8cf5-4f26-8c73-0372dfa6d532/chemicalsincosmetics-data-collection-tool.pdf?Content-Type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJJIENTAPKHZMIPXQ%2F20240613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240613T232234Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=617f7a893e0610228ea6c164fc901fb2f7b15915c62fdd7c1adf15c46637af6e
+
+
+**DATA QUESTIONS**
+
+What are the top 10 companies with the most products?
+What are the top 5 chemicals present?
+What percentage of the chemicals were removed and what are the top 5 chemicals removed?
+    In what products are these ingredients commonly found, and what are its uses?
+    How harmful are these ingredients?
