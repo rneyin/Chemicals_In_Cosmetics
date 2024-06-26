@@ -27,6 +27,7 @@ The data is from the California Safe Cosmetics Program (CSCP) in the California 
 **Data Collection Tool**: https://og-production-open-data-chelseama-892364687672.s3.amazonaws.com/resources/28c5c460-8cf5-4f26-8c73-0372dfa6d532/chemicalsincosmetics-data-collection-tool.pdf?Content-Type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJJIENTAPKHZMIPXQ%2F20240613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240613T232234Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=617f7a893e0610228ea6c164fc901fb2f7b15915c62fdd7c1adf15c46637af6e
 
 
+
 **DATA QUESTIONS**
 
 -What are the top 10 companies with the most products?
@@ -42,5 +43,8 @@ The data is from the California Safe Cosmetics Program (CSCP) in the California 
 
 
 **CHEMICALS IN COSMETICS DASHBOARD**
+
 Below is a dashboard with analysis on the topic and a little dive into skincare.
+
+
 https://app.powerbi.com/view?r=eyJrIjoiNjhmZGQ4ZDUtZGNmOS00YzE5LWJkMjEtZDBkZWQzMWZkZTE4IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
