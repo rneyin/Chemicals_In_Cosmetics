@@ -38,3 +38,9 @@ The data is from the California Safe Cosmetics Program (CSCP) in the California 
     -In what products are these ingredients commonly found, and what are its uses?
     
     -How harmful are these ingredients?
+
+
+
+**CHEMICALS IN COSMETICS DASHBOARD**
+Below is a dashboard with analysis on the topic and a little dive into skincare.
+https://app.powerbi.com/view?r=eyJrIjoiNjhmZGQ4ZDUtZGNmOS00YzE5LWJkMjEtZDBkZWQzMWZkZTE4IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
